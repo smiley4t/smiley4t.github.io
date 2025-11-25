@@ -72,20 +72,20 @@ Since high school, I have always felt fascinated by mathematics — especially l
 
 Outside of academics, I am an energetic person who loves sports — especially **swimming, running, badminton, and pickleball**. I believe training the body is similar to training the mind: a healthy body supports a strong mindset and good mental health.
 
-<div style="display:flex; justify-content:center; gap:16px; flex-wrap:wrap; margin:20px 0;">
-  <div style="text-align:center;">
+<div style="display:flex; justify-content:center;   align-items:flex-start; gap:16px; flex-wrap:nowrap;overflow-x:auto; margin:20px 0;">
+  <div style="text-align:center; flex:0 0 23%;"">
     <img src="sport_2.jpg" alt="Riding" style="width:150px; border-radius:10px;">
     <p><em>Riding and enjoying beautiful landscapes make me feel happy</em></p>
   </div>
-  <div style="text-align:center;">
+  <div style="text-align:center;flex:0 0 23%;"">
     <img src="sport_3.jpg" alt="Swimming" style="width:150px; border-radius:10px;">
     <p><em>Go swimming in a cold day</em></p>
   </div>
-  <div style="text-align:center;">
+  <div style="text-align:center;flex:0 0 23%;"">
     <img src="sport_4.jpg" alt="Jogging" style="width:150px; border-radius:10px;">
     <p><em> Go jogging in a forest</em></p>
   </div>
-  <div style="text-align:center;">
+  <div style="text-align:center;flex:0 0 23%;"">
     <img src="sport_5.jpg" alt="Running" style="width:150px; border-radius:10px;">
     <p><em>First time I finished a 10 km running</em></p>
   </div>
