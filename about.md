@@ -20,7 +20,7 @@ I am a graduate of Master of Data Science on a journey to become a **Data Scient
 - 📘 **Relevant Courses:**  
   Data Analysis, Statistics, Machine Learning, Visualization, Databases
 
-  - 🎓 **Graduate Diploma in Statistics**  
+  - 🎓**Graduate Diploma in Statistics**  
   *Victoria University of Wellington — 2017-2019*
   6/8 courses achieved A+
 
@@ -63,7 +63,6 @@ I am a graduate of Master of Data Science on a journey to become a **Data Scient
 - Managed 100+ data requests, ensuring timely and accurate cross-functional data delivery.
 
 
-## My Interests
 
 ## My Interests
 
@@ -73,9 +72,46 @@ Since high school, I have always felt fascinated by mathematics — especially l
 
 Outside of academics, I am an energetic person who loves sports — especially **swimming, running, badminton, and pickleball**. I believe training the body is similar to training the mind: a healthy body supports a strong mindset and good mental health.
 
+<div style="display:flex; justify-content:center; gap:16px; flex-wrap:wrap; margin:20px 0;">
+  <div style="text-align:center;">
+    <img src="sport_2.jpg" alt="Riding" style="width:150px; border-radius:10px;">
+    <p><em>Riding and enjoying beautiful landscapes make me feel happy</em></p>
+  </div>
+  <div style="text-align:center;">
+    <img src="sport_3.jpg" alt="Swimming" style="width:150px; border-radius:10px;">
+    <p><em>Go swimming in a cold day</em></p>
+  </div>
+  <div style="text-align:center;">
+    <img src="sport_4.jpg" alt="Badminton" style="width:150px; border-radius:10px;">
+    <p><em> Go jogging in a forest</em></p>
+  </div>
+  <div style="text-align:center;">
+    <img src="sport_5.jpg" alt="Running" style="width:150px; border-radius:10px;">
+    <p><em>First time I finished a 10 km running</em></p>
+  </div>
+</div>
+
+
+
 I also love **traveling and discovering new places**. Since coming to Australia, I have been amazed by its natural beauty — truly unlike anywhere else in the world.
+<div style="display:flex; justify-content:center; gap:16px; flex-wrap:wrap; margin:20px 0;">
+  <div style="text-align:center;">
+    <img src="trave_1.jpg" alt="Riding" style="width:150px; border-radius:10px;">
+    <p><em>Going to Dalesford in an autumn day</em></p>
+  </div>
+  <div style="text-align:center;">
+    <img src="travel_3.jpg" alt="Travel" style="width:150px; border-radius:10px;">
+    <p><em>Travel to Great Ocean Road</em></p>
+  </div>
+  <div style="text-align:center;">
+    <img src="travel_4.jpg" alt="Travel" style="width:150px; border-radius:10px;">
+    <p><em> 12 Apostales in Great Ocean Road </em></p>
+  </div>
+</div>
 
 Reading is another big part of my life. I enjoy **novels** and **self-help books**. For me, reading opens new perspectives and rewires the mind. It is also why I enjoy **writing journals** — to reflect, track my growth, and understand myself better.
+
+Some of my favourtie books
 
 ---
 
