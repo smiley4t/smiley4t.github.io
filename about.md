@@ -96,7 +96,7 @@ Outside of academics, I am an energetic person who loves sports — especially *
 I also love **traveling and discovering new places**. Since coming to Australia, I have been amazed by its natural beauty — truly unlike anywhere else in the world.
 <div style="display:flex; justify-content:center; gap:16px; flex-wrap:wrap; margin:20px 0;">
   <div style="text-align:center;">
-    <img src="trave_1.jpg" alt="Riding" style="width:150px; border-radius:10px;">
+    <img src="travel_1.jpg" alt="Riding" style="width:150px; border-radius:10px;">
     <p><em>Going to Dalesford in an autumn day</em></p>
   </div>
   <div style="text-align:center;">
@@ -104,7 +104,7 @@ I also love **traveling and discovering new places**. Since coming to Australia,
     <p><em>Travel to Great Ocean Road</em></p>
   </div>
   <div style="text-align:center;">
-    <img src="travel_4.jpg" alt="Travel" style="width:150px; border-radius:10px;">
+    <img src="travel_1.jpg" alt="Travel" style="width:150px; border-radius:10px;">
     <p><em> 12 Apostales in Great Ocean Road </em></p>
   </div>
 </div>
