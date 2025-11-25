@@ -104,7 +104,7 @@ I also love **traveling and discovering new places**. Since coming to Australia,
     <p><em>Travel to Great Ocean Road</em></p>
   </div>
   <div style="text-align:center;">
-    <img src="travel_1.jpg" alt="Travel" style="width:150px; border-radius:10px;">
+    <img src="travel_2.jpg" alt="Travel" style="width:150px; border-radius:10px;">
     <p><em> 12 Apostales in Great Ocean Road </em></p>
   </div>
 </div>
