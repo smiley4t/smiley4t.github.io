@@ -82,7 +82,7 @@ Outside of academics, I am an energetic person who loves sports — especially *
     <p><em>Go swimming in a cold day</em></p>
   </div>
   <div style="text-align:center;">
-    <img src="sport_4.jpg" alt="Badminton" style="width:150px; border-radius:10px;">
+    <img src="sport_4.jpg" alt="Jogging" style="width:150px; border-radius:10px;">
     <p><em> Go jogging in a forest</em></p>
   </div>
   <div style="text-align:center;">
@@ -110,8 +110,10 @@ I also love **traveling and discovering new places**. Since coming to Australia,
 </div>
 
 Reading is another big part of my life. I enjoy **novels** and **self-help books**. For me, reading opens new perspectives and rewires the mind. It is also why I enjoy **writing journals** — to reflect, track my growth, and understand myself better.
+Some of my favourite books:
 
-Some of my favourtie books
+
+
 
 ---
 
