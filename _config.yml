@@ -2,5 +2,5 @@ title: Alissa Tran
 description: I dream to become a Data Scientist that helps to apply Data and AI into real-world problems
 theme: jekyll-theme-cayman
 header_pages:
--about.md
--projects.md
+- about.md
+- projects.md
