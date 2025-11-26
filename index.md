@@ -6,11 +6,13 @@ title: Alissa Tran
   <img src="avarta.jpg" alt="Alissa Tran" style="width:180px; border-radius:50%; border:3px solid #ddd; margin-bottom:16px;">
 </p>
 
-# Hi, I'm Alissa 👋
+<h1 style="text-align:center;">Hi, I am Alissa Tran 👋</h1>
 
-Welcome to my data portfolio.
-
-I am a graduate of Master of Data Science and dream to become a **Data Scientist** who applies **Data and AI** to real-world problems.
+<p style="text-align:center; max-width:650px; margin:0 auto 24px auto;">
+  Welcome to my data portfolio.
+  I am a graduate of Master of Data Science and dream to become a <strong>Data Scientist</strong>
+  who applies <strong>Data and AI</strong> to real-world problems.
+</p>
 ---
 
 ## What you'll find here
