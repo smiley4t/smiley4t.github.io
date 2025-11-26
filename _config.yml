@@ -1,6 +1,9 @@
-title: Alissa Tran
-description: I dream to become a Data Scientist that helps to apply Data and AI into real-world problems
+title: "Alissa Tran"
+description: "Hi, I'm Alissa Tran. Welcome to my data portfolio. I am a graduate of Master of Data Science and dream to become a Data Scientist who applies Data and AI to real-world problems."
+
 theme: jekyll-theme-cayman
+
 header_pages:
-- about.md
-- projects.md
+  - about.md
+  - projects.md
+  - contact.md
