@@ -18,7 +18,7 @@ title: Alissa Tran
 ">
 
   <div style="flex:0 0 260px; text-align:center; padding:16px; border-radius:16px; border:1px solid #ddd;">
-    <a href="{{ '/about.html' | relative_url }}"
+    <a href="{{ '/about.html' }}"
        style="display:inline-block; margin-bottom:8px; padding:8px 16px; border-radius:999px; border:1px solid #ccc; text-decoration:none; color:#000; font-weight:700;">
       About Me
     </a>
@@ -28,7 +28,7 @@ title: Alissa Tran
   </div>
 
   <div style="flex:0 0 260px; text-align:center; padding:16px; border-radius:16px; border:1px solid #ddd;">
-    <a href="{{ '/projects.html' | relative_url }}"
+    <a href="{{ '/projects.html'}}"
        style="display:inline-block; margin-bottom:8px; padding:8px 16px; border-radius:999px; border:1px solid #ccc; text-decoration:none; color:#000; font-weight:700;">
       Projects
     </a>
@@ -38,7 +38,7 @@ title: Alissa Tran
   </div>
 
   <div style="flex:0 0 260px; text-align:center; padding:16px; border-radius:16px; border:1px solid:#ddd;">
-    <a href="{{ '/contact.html' | relative_url }}"
+    <a href="{{ '/contact.html' }}"
        style="display:inline-block; margin-bottom:8px; padding:8px 16px; border-radius:999px; border:1px solid #ccc; text-decoration:none; color:#000; font-weight:700;">
       Contact
     </a>
