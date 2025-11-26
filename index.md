@@ -19,7 +19,7 @@ title: Alissa Tran
 
   <div style="flex:0 0 260px; text-align:center; padding:16px; border-radius:16px; border:1px solid #ddd;">
     <a href="{{ '/about.html' | relative_url }}"
-       style="display:inline-block; margin-bottom:8px; padding:8px 16px; border-radius:999px; border:1px solid #ccc; text-decoration:none;">
+       style="display:inline-block; margin-bottom:8px; padding:8px 16px; border-radius:999px; border:1px solid #ccc; text-decoration:none; color:#000; font-weight:700;">
       About Me
     </a>
     <p style="margin:0; font-size:0.95rem;">
@@ -29,7 +29,7 @@ title: Alissa Tran
 
   <div style="flex:0 0 260px; text-align:center; padding:16px; border-radius:16px; border:1px solid #ddd;">
     <a href="{{ '/projects.html' | relative_url }}"
-       style="display:inline-block; margin-bottom:8px; padding:8px 16px; border-radius:999px; border:1px solid #ccc; text-decoration:none;">
+       style="display:inline-block; margin-bottom:8px; padding:8px 16px; border-radius:999px; border:1px solid #ccc; text-decoration:none; color:#000; font-weight:700;">
       Projects
     </a>
     <p style="margin:0; font-size:0.95rem;">
@@ -39,7 +39,7 @@ title: Alissa Tran
 
   <div style="flex:0 0 260px; text-align:center; padding:16px; border-radius:16px; border:1px solid:#ddd;">
     <a href="{{ '/contact.html' | relative_url }}"
-       style="display:inline-block; margin-bottom:8px; padding:8px 16px; border-radius:999px; border:1px solid #ccc; text-decoration:none;">
+       style="display:inline-block; margin-bottom:8px; padding:8px 16px; border-radius:999px; border:1px solid #ccc; text-decoration:none; color:#000; font-weight:700;">
       Contact
     </a>
     <p style="margin:0; font-size:0.95rem;">
