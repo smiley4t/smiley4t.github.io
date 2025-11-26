@@ -70,19 +70,19 @@ Outside of academics, I am an energetic person who loves sports — especially *
 
 <div style="display:flex; justify-content:center; gap:16px; flex-wrap:wrap;overflow-x:auto; margin:20px 0;">
   <div style="text-align:center; flex:0 0 23%;">
-    <img src="sport_2.jpg" alt="Riding" style="width:50%; border-radius:10px;">
+    <img src="{{ '/sport_2.jpg' | relative_url }}" alt="Riding" style="width:50%; border-radius:10px;">
     <p><em>Riding and enjoying beautiful landscapes make me feel happy</em></p>
   </div>
   <div style="text-align:center;flex:0 0 23%;">
-    <img src="sport_3.jpg" alt="Swimming" style="width:50%; border-radius:10px;">
+    <img src="{{ '/sport_3.jpg' | relative_url }}" alt="Swimming" style="width:50%; border-radius:10px;">
     <p><em>Go swimming in a cold day</em></p>
   </div>
   <div style="text-align:center;flex:0 0 23%;">
-    <img src="sport_4.jpg" alt="Jogging" style="width:50%; border-radius:10px;">
+    <img src="{{ '/sport_4.jpg' | relative_url }}" alt="Jogging" style="width:50%; border-radius:10px;">
     <p><em> Go jogging in a forest</em></p>
   </div>
   <div style="text-align:center;flex:0 0 23%;">
-    <img src="sport_5.jpg" alt="Running" style="width:50%; border-radius:10px;">
+    <img src=""{{ '/sport_5.jpg' | relative_url }}" alt="Running" style="width:50%; border-radius:10px;">
     <p><em>First time I finished a 10 km running</em></p>
   </div>
 </div>
@@ -92,15 +92,15 @@ Outside of academics, I am an energetic person who loves sports — especially *
 I also love **traveling and discovering new places**. Since coming to Australia, I have been amazed by its natural beauty — truly unlike anywhere else in the world.
 <div style="display:flex; justify-content:center; gap:16px; flex-wrap:wrap; margin:20px 0;">
   <div style="text-align:center;">
-    <img src="travel_1.jpg" alt="travel_1" style="width:50%; border-radius:10px;">
+    <img src=""{{ '/travel_1.jpg' | relative_url }}" alt="travel_1" style="width:50%; border-radius:10px;">
     <p><em>Going to Dalesford in an autumn day</em></p>
   </div>
   <div style="text-align:center;">
-    <img src="travel_3.jpg" alt="travel_2" style="width:50%; border-radius:10px;">
+    <img src=""{{ '/travel_3.jpg' | relative_url }}" alt="travel_2" style="width:50%; border-radius:10px;">
     <p><em>Travel to Great Ocean Road</em></p>
   </div>
   <div style="text-align:center;">
-    <img src="travel_4.jpg" alt="Travel_3" style="width:50%; border-radius:10px;">
+    <img src=""{{ '/travel_4.jpg' | relative_url }}" alt="Travel_3" style="width:50%; border-radius:10px;">
     <p><em> 12 Apostales in Great Ocean Road </em></p>
   </div>
 </div>
@@ -109,15 +109,15 @@ Reading is another big part of my life. I enjoy **novels** and **self-help books
 Some of my favourite books:
 <div style="display:flex; justify-content:center; gap:16px; flex-wrap:wrap; margin:20px 0;">
   <div style="text-align:center;">
-    <img src="book_1.jpg" alt="book_1" style="width:50%; border-radius:10px;">
+    <img src=" {{ '/book_1.jpg' | relative_url }} " alt="book_1" style="width:50%; border-radius:10px;">
     <p><em>When the Breath Becomes Air is a memoir by Paul Kalanithi, a gifted neurosurgeon who is diagnosed with terminal lung cancer in his mid-thirties, just as he is about to complete a decade of medical training. The book explores what it means to live a meaningful life when you know that life will be cut short. I got deeply touched with the story of the writer as well his dedication and passion in neurosurgery and writing</em></p>
   </div>
   <div style="text-align:center;">
-    <img src="book_2.jpg" alt="book_2" style="width:50%; border-radius:10px;">
+    <img src="{{ '/book_2.jpg' | relative_url }}" alt="book_2" style="width:50%; border-radius:10px;">
     <p><em>This is the book "50 education lessons from a mother having 3 children studying at Stanford". The mother is an education doctor My Linh Tran. The book is concise lessons of how to raise confident children and treasure each individual characters but also making up a closely knitted family that always support each other. I am highly impressed by the author's concise, compact writing style and the profound educational philosophies reflected in the book."</em></p>
   </div>
   <div style="text-align:center;">
-    <img src="fresh-water-for-flowers.w300.jpg" alt="book_3" style="width:50%; border-radius:10px;">
+    <img src="{{ '/fresh-water-for-flowers.w300.jpg' | relative_url }} " alt="book_3" style="width:50%; border-radius:10px;">
     <p><em>Fresh Water for Flowers by Valérie Perrin is a quiet, emotional novel about grief, love, and finding a way back to life after tragedy. I am highly touched with the novel’s poetic, beautiful prose describing the life of Violette Toussaint — a woman with her life marked by loss and hardship, yet still filled with happiness in the small, simple things around."  </em></p>
   </div>
 </div>
