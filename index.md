@@ -1,7 +1,10 @@
 ---
 layout: default
-title: Home
+title: Alissa Tran
 ---
+<p align="center">
+  <img src="/avartar.jpg" alt="Alissa Tran" style="width:180px; border-radius:50%; border:3px solid #ddd; margin-bottom:16px;">
+</p>
 
 # Hi, I'm Alissa 👋
 
