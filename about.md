@@ -91,15 +91,15 @@ Outside of academics, I am an energetic person who loves sports — especially *
 
 I also love **traveling and discovering new places**. Since coming to Australia, I have been amazed by its natural beauty — truly unlike anywhere else in the world.
 <div style="display:flex; justify-content:center; gap:16px; flex-wrap:wrap;overflow-x:auto; margin:20px 0;">
-  <div style="text-align:center; flex:0 0 40%;">
+  <div style="text-align:center; flex:0 0 35%;">
     <img src="{{ '/travel_1.jpg' | relative_url }}" alt="travel_1" style="width:5=70%; border-radius:10px;">
     <p><em>Going to Dalesford in an autumn day</em></p>
   </div>
-  <div style="text-align:center;flex:0 0 40%;">
+  <div style="text-align:center;flex:0 0 35%;">
     <img src="{{ '/travel_3.jpg' | relative_url }}" alt="travel_2" style="width:70%; border-radius:10px;">
     <p><em>Travel to Great Ocean Road</em></p>
   </div>
-  <div style="text-align:center; flex:0 0 40%;">
+  <div style="text-align:center; flex:0 0 35%;">
     <img src="{{ '/travel_4.jpg' | relative_url }}" alt="Travel_3" style="width:70%; border-radius:10px;">
     <p><em> 12 Apostales in Great Ocean Road </em></p>
   </div>
