@@ -25,6 +25,21 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
+      - name: Print environment
+        run: |
+          echo "--- Environment ---"
+          ruby -v || true
+          gem -v || true
+          gem env || true
+          bundle -v || true
+          uname -a
+          echo "--- End environment ---"
+
+      - name: Install system dependencies for native gems (nokogiri etc.)
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y build-essential libxml2-dev libxslt1-dev zlib1g-dev
+
       - name: Set up Ruby
         uses: ruby/setup-ruby@v1
         with:
@@ -33,14 +48,18 @@ jobs:
       - name: Install Jekyll and dependencies
         run: |
           gem install jekyll bundler
-          if [ -f Gemfile ]; then bundle install --jobs 4 --retry 3; fi
+          if [ -f Gemfile ]; then
+            bundle config set --local path vendor/bundle
+            bundle install --jobs 4 --retry 3
+            bundle list
+          fi
 
-      - name: Build site with Jekyll
+      - name: Build site with Jekyll (with trace)
         run: |
           if [ -f Gemfile ]; then
-            bundle exec jekyll build --destination _site
+            bundle exec jekyll build --destination _site --trace
           else
-            jekyll build --destination _site
+            jekyll build --destination _site --trace
           fi
 
       - name: Setup Pages
