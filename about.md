@@ -16,11 +16,14 @@ I am a graduate of Master of Data Science on a journey to become a **Data Scient
 
 - 🎓**Graduate Diploma in Statistics**  
   *Victoria University of Wellington — 2017-2019*
+  
   6/8 courses achieved A+
 
 - 🎓 **Bachelor of Business Administration**  
   *Foreign Trade Univeristy — 2012-2016*
+  
   Top 10 graduated students of the Faculty
+  
   GPA:3.64/4
 
   
