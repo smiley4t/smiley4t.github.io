@@ -113,7 +113,7 @@ Some of my favourite books:
     <p><em>This is the book "50 education lessons from a mother having 3 children studying at Stanford". The mother is an education doctor My Linh Tran. The book is concise lessons of how to raise confident children and treasure each individual characters but also making up a closely knitted family that always support each other. I am highly impressed by the author's concise, compact writing style and the profound educational philosophies reflected in the book."</em></p>
   </div>
   <div style="text-align:center;">
-    <img src="=book_3.png" alt="book_3" style="width:50%; border-radius:10px;">
+    <img src="fresh-water-for-flowers.w300.jpg" alt="book_3" style="width:50%; border-radius:10px;">
     <p><em>Fresh Water for Flowers by Valérie Perrin is a quiet, emotional novel about grief, love, and finding a way back to life after tragedy. I am highly touched with the novel’s poetic, beautiful prose describing the life of Violette Toussaint — a woman with her life marked by loss and hardship, yet still filled with happiness in the small, simple things around."  </em></p>
   </div>
 </div>
