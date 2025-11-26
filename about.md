@@ -1,7 +1,4 @@
----
-layout: default
-title: About Me
----
+
 
 # About Me
 
@@ -17,22 +14,14 @@ I am a graduate of Master of Data Science on a journey to become a **Data Scient
   *Deakin University — 2023-2025*  
   Achieved all High-Distinction in courses
 
-- 📘 **Relevant Courses:**  
-  Data Analysis, Statistics, Machine Learning, Visualization, Databases
-
-  - 🎓**Graduate Diploma in Statistics**  
+- 🎓**Graduate Diploma in Statistics**  
   *Victoria University of Wellington — 2017-2019*
   6/8 courses achieved A+
 
-- 📘 **Relevant Courses:**  
-  Mathematical statistics, Applied Statistics, Multivariate statistics.
-
-   - 🎓 **Bachelor of Business Administration**  
+- 🎓 **Bachelor of Business Administration**  
   *Foreign Trade Univeristy — 2012-2016*
   Top 10 graduated students of the Faculty
-
-- 📘 **Relevant Courses:**  
-  Mathematical statistics, Applied Statistics, Multivariate statistics.
+  GPA:3.64/4
 
   
 
@@ -111,28 +100,25 @@ I also love **traveling and discovering new places**. Since coming to Australia,
 
 Reading is another big part of my life. I enjoy **novels** and **self-help books**. For me, reading opens new perspectives and rewires the mind. It is also why I enjoy **writing journals** — to reflect, track my growth, and understand myself better.
 Some of my favourite books:
+<div style="display:flex; justify-content:center; gap:16px; flex-wrap:wrap; margin:20px 0;">
+  <div style="text-align:center;">
+    <img src="book_1.jpg" alt="book_1" style="width:50%; border-radius:10px;">
+    <p><em>When the Breath Becomes Air is a memoir by Paul Kalanithi, a gifted neurosurgeon who is diagnosed with terminal lung cancer in his mid-thirties, just as he is about to complete a decade of medical training. The book explores what it means to live a meaningful life when you know that life will be cut short. I got deeply touched with the story of the writer as well his dedication and passion in neurosurgery and writing</em></p>
+  </div>
+  <div style="text-align:center;">
+    <img src="book_2.jpg" alt="book_2" style="width:50%; border-radius:10px;">
+    <p><em>This is the book "50 education lessons from a mother having 3 children studying at Stanford". The mother is an education doctor My Linh Tran. The book is concise lessons of how to raise confident children and treasure each individual characters but also making up a closely knitted family that always support each other. I am highly impressed by the author's concise, compact writing style and the profound educational philosophies reflected in the book."</em></p>
+  </div>
+  <div style="text-align:center;">
+    <img src="=book_3.jpg" alt="book_3" style="width:50%; border-radius:10px;">
+    <p><em>Fresh Water for Flowers by Valérie Perrin is a quiet, emotional novel about grief, love, and finding a way back to life after tragedy. I am highly touched with the novel’s poetic, beautiful prose describing the life of Violette Toussaint — a woman with her life marked by loss and hardship, yet still filled with happiness in the small, simple things around."  </em></p>
+  </div>
+</div>
 
 
 
 
 
----
 
 
----
-
-## Stories of My Life
-
-### ✨ The first days coming in Australia and cultural shocks I encoutered  
-A short paragraph about the moment or experience that made you realize  
-you enjoy working with numbers, patterns, or solving problems.
-
-### 🚀 A challenge I overcame  
-Describe a personal or academic challenge and what you learned from it.
-
-### 🌱 What motivates me  
-Explain what keeps you curious, inspired, or excited about learning data science.
-
-
----
 
