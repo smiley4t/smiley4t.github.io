@@ -1,13 +1,11 @@
 
 ---
-
 layout: default
 title: Projects
 permalink: /projects/
-
 ---
 
-## Data Projects
+
 
 This page showcases selected projects where I apply **data science, data analysis, visualization, and storytelling** to real-world problems.  
 Each project focuses not only on tools, but also on **how data is transformed into insights**.
