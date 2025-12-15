@@ -165,6 +165,38 @@ Each project focuses not only on tools, but also on **how data is transformed in
         </p>
       </div>
     </div>
+    <!-- End Project Card -->
+     <!-- Project Card -->
+<div class="project-card">
+  <img class="project-thumb"
+       src="/images_classification.jpg"
+       alt="Images classification thumbnail">
+
+  <div class="project-body">
+    <h4 class="project-title"> Classification of images with Convolutional Neural Network</h4>
+
+    <p class="project-summary">
+    Using Convolutional Neural Network to capture spatial features of increasing levels of abstraction of images of rubbish and classify them into different types of rubbish for recycling
+    </p>
+
+    <ul class="tags">
+      <li>Scikit Learn</li>
+      <li>Data Cleaning</li>
+      <li>Data Augmentation</li>
+      <li>Data Visualization</li>
+      <li>Convolutional Neura Network</li>
+    </ul>
+
+    <p class="project-links">
+      🔗 <b>Github:</b>
+      <a href="https://github.com/smiley4t/Convolutional_Neural_Network.git"
+         target="_blank" rel="noopener">
+        Link project
+      </a>
+    </p>
+  </div>
+</div>
+<!-- End Project Card -->
 
   </div>
 </details>
