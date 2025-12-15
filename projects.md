@@ -15,7 +15,7 @@ Each project focuses not only on tools, but also on **how data is transformed in
 
 ### 📌 Global GDP Analysis Dashboard
 <p align="center">
-  <img src="/GDP analysis.jpg"
+  <img src="/GDP analysis.png"
        alt="GDP Demographic Dashboard"
        style="width:100%; max-width:720px; border-radius:12px; border:1px solid #ddd;">
 </p>
