@@ -1,7 +1,10 @@
 
 ---
+
 layout: default
 title: Projects
+permalink: /projects/
+
 ---
 
 ## Data Projects
