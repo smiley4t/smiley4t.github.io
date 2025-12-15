@@ -169,7 +169,7 @@ Each project focuses not only on tools, but also on **how data is transformed in
      <!-- Project Card -->
 <div class="project-card">
   <img class="project-thumb"
-       src="/images_classification.jpg"
+       src="/waste classification.jpg"
        alt="Images classification thumbnail">
 
   <div class="project-body">
