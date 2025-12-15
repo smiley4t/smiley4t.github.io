@@ -2,9 +2,7 @@
 layout: default
 title: Alissa Tran
 ---
-<p align="center">
-  <img src="avarta.jpg" alt="Alissa Tran" style="width:180px; border-radius:50%; border:3px solid #ddd; margin-bottom:16px;">
-</p>
+
 
 ---
 ## What you'll find here
