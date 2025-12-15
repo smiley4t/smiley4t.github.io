@@ -142,7 +142,7 @@ Each project focuses not only on tools, but also on **how data is transformed in
            alt="Neural Network thumbnail">
 
       <div class="project-body">
-        <h4 class="project-title">📌 Classification of patient's diagnosis with Neural Network </h4>
+        <h4 class="project-title"> Classification of patient's diagnosis with Neural Network </h4>
 
         <p class="project-summary">
           Using Neural Network to classify pediatric patients with abdominal pain into two groups : appendicitus and no appendicitus
