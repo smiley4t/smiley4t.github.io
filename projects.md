@@ -69,7 +69,7 @@ Each project focuses not only on tools, but also on **how data is transformed in
     <!-- Project Card -->
     <div class="project-card">
       <img class="project-thumb"
-           src="/medical_info.png"
+           src="/medical_misinfo.jpg"
            alt="Medical info thumbnail">
 
       <div class="project-body">
@@ -102,6 +102,7 @@ Each project focuses not only on tools, but also on **how data is transformed in
 
 
 </details>
+<details>
   <summary>Data visualization <span class="chev">▼</span></summary>
   <div class="content">
 
@@ -238,7 +239,7 @@ Each project focuses not only on tools, but also on **how data is transformed in
 <!-- End Project Card -->
 
   </div>
-</details>
+
 
 
 
