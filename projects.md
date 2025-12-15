@@ -138,7 +138,7 @@ Each project focuses not only on tools, but also on **how data is transformed in
 
     <div class="project-card">
       <img class="project-thumb"
-           src="/influence-index-python.png"
+           src="/patient.jpg"
            alt="Neural Network thumbnail">
 
       <div class="project-body">
