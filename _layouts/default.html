@@ -1,0 +1,39 @@
+---
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>{{ page.title }} | {{ site.title }}</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  {{ content_for_head }}
+</head>
+
+<body>
+
+<header style="border-bottom:1px solid #eee;">
+  <div style="max-width:960px; margin:auto; padding:16px 0; display:flex; justify-content:space-between; align-items:center;">
+
+    <!-- Navigation -->
+    <nav style="display:flex; gap:20px; font-weight:700;">
+      <a href="{{ '/' | relative_url }}">Home</a>
+      <a href="{{ '/about/' | relative_url }}">About Me</a>
+      <a href="{{ '/projects/' | relative_url }}">Projects</a>
+    </nav>
+
+    <!-- Social links -->
+    <div style="display:flex; gap:16px;">
+      <a href="https://www.linkedin.com/in/11081994/" target="_blank" rel="noopener">LinkedIn</a>
+      <a href="https://github.com/smiley4t" target="_blank" rel="noopener">GitHub</a>
+    </div>
+
+  </div>
+</header>
+
+<main style="max-width:960px; margin:auto; padding:24px;">
+  {{ content }}
+</main>
+
+</body>
+</html>
