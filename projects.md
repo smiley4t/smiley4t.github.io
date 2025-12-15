@@ -240,37 +240,6 @@ Each project focuses not only on tools, but also on **how data is transformed in
   </div>
 </details>
 
-<details>
-  <summary>SQL / Database Projects <span class="chev">▼</span></summary>
-  <div class="content">
 
-    <div class="project-card">
-      <img class="project-thumb"
-           src="/assets/images/sql-analysis.png"
-           alt="SQL analysis thumbnail">
-
-      <div class="project-body">
-        <h4 class="project-title">📌 Business Querying & KPI Analysis (SQL)</h4>
-
-        <p class="project-summary">
-          Wrote clear, validated SQL queries (joins, CTEs, aggregations) to answer business questions and generate decision-ready KPIs.
-        </p>
-
-        <ul class="tags">
-          <li>SQL</li>
-          <li>CTE</li>
-          <li>Joins</li>
-          <li>Aggregation</li>
-          <li>Data Validation</li>
-        </ul>
-
-        <p class="project-links">
-          🔗 <b>GitHub:</b> (link)
-        </p>
-      </div>
-    </div>
-
-  </div>
-</details>
 
 </div>
