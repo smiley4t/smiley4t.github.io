@@ -63,6 +63,45 @@ Each project focuses not only on tools, but also on **how data is transformed in
 <div class="proj-acc">
 
 <details open>
+  <summary>AI project <span class="chev">▼</span></summary>
+  <div class="content">
+
+    <!-- Project Card -->
+    <div class="project-card">
+      <img class="project-thumb"
+           src="/medical_info.png"
+           alt="Medical info thumbnail">
+
+      <div class="project-body">
+        <h4 class="project-title"> Fine-tuning LLM model for Medical Misinformation detection </h4>
+
+        <p class="project-summary">
+        Reloading Llama-13B-2 model from Hugging Face and fine-tuning the model on three datasets for medical misinformation detection, creating a chatbot for response generation
+       
+        </p>
+
+        <ul class="tags">
+          <li>LLM Fine-Tuning</li>
+          <li>Natural Language Processing</li>
+          <li>Parameter-Efficient Fine-Tuning</li>
+          <li>Hugging Face Transformers</li>
+          <li>RAG</li>
+        </ul>
+
+        <p class="project-links">
+          🔗 <b>Github:</b> 
+          <a href="https://github.com/DataBytes-Organisation/Fine-Tuning-LLMs-for-Enterprise-Applications/tree/alissa_branch.git"
+         target="_blank" rel="noopener">
+         Link project
+      </a>
+        </p>
+      </div>
+    </div>
+    <!-- End Project Card -->
+    
+
+
+</details>
   <summary>Data visualization <span class="chev">▼</span></summary>
   <div class="content">
 
