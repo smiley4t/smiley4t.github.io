@@ -11,90 +11,191 @@ Each project focuses not only on tools, but also on **how data is transformed in
 
 ---
 
-## 📊 Tableau Projects
 
-### 📌 Global GDP Analysis Dashboard
-<p align="center">
-  <img src="/GDP analysis.png"
-       alt="GDP Demographic Dashboard"
-       style="width:100%; max-width:720px; border-radius:12px; border:1px solid #ddd;">
-</p>
+## All Projects
 
-**Tools:** Tableau, Excel  
-**Focus:** Data visualization, comparative analysis, storytelling
+<style>
+/* Accordion container */
+.proj-acc details{
+  background:#fff; border:1px solid #eee; border-radius:14px;
+  padding:14px 18px; margin:14px 0;
+  box-shadow:0 6px 20px rgba(0,0,0,0.04);
+}
+.proj-acc summary{
+  cursor:pointer; font-size:1.25rem; font-weight:800;
+  list-style:none; display:flex; align-items:center; justify-content:space-between;
+}
+.proj-acc summary::-webkit-details-marker{ display:none; }
+.proj-acc .chev{ font-size:1.2rem; opacity:.7; }
+.proj-acc details[open] .chev{ transform:rotate(180deg); }
+.proj-acc .content{ margin-top:14px; padding-top:12px; border-top:1px solid #f0f0f0; }
 
-This is a project I built interactive dashboards to compare **GDP, GDP average growth, region share of world GDP by year** of different countries and regions. Based on that, I can figure out insights of global GDP during 1995 - 2024 and discover emerging economy in Asia and Sub-Saharan Africa.
+/* Project card */
+.project-card{
+  display:flex; gap:14px; align-items:flex-start;
+  border:1px solid #f0f0f0; border-radius:14px;
+  padding:14px; margin:14px 0;
+}
+.project-thumb{
+  width:160px; height:110px; flex:0 0 160px;
+  object-fit:cover; border-radius:12px; border:1px solid #ddd;
+}
+.project-body{ flex:1; }
+.project-title{ margin:0 0 6px 0; font-size:1.05rem; font-weight:800; }
+.project-links{ margin:6px 0 0 0; }
+.project-summary{ margin:0 0 10px 0; opacity:.88; }
 
+/* Skill tags */
+.tags{ display:flex; flex-wrap:wrap; gap:8px; margin:0; padding:0; list-style:none; }
+.tags li{
+  display:inline-block; padding:4px 10px;
+  border:1px solid #e6e6e6; border-radius:999px;
+  font-size:.88rem; opacity:.95;
+}
 
-🔗 *Link:* https://public.tableau.com/views/GlobalGDPAnalysisDashboard/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+/* Mobile responsive */
+@media (max-width: 650px){
+  .project-card{ flex-direction:column; }
+  .project-thumb{ width:100%; height:180px; flex:auto; }
+}
+</style>
 
----
+<div class="proj-acc">
 
-### 📌Colac Otway and Greater Geelong
-<p align="center">
-  <img src="/Colac.jpg"
-       alt="Colac"
-       style="width:100%; max-width:720px; border-radius:12px; border:1px solid #ddd;">
-</p>
+<details open>
+  <summary>Data visualization <span class="chev">▼</span></summary>
+  <div class="content">
 
-**Tools:** Tableau, Data Cleaning, Excel  
-**Focus:** Data visualization, comparative analysis, storytelling
+    <!-- Project Card -->
+    <div class="project-card">
+      <img class="project-thumb"
+           src="/GDP analysis.png"
+           alt="Global GDP Analysis Dashboard thumbnail">
 
-I had a chance to volunteer for a project to research on immigration of Colac Otway - a regional area in the south west of Melbourne. I collected data from Australian Bureau of Statistics of two regions Colac Otway and Geelong to visualize the population, religion, job sectors,.etc
+      <div class="project-body">
+        <h4 class="project-title">📌 Global GDP Analysis Dashboard (1995–2024)</h4>
 
-🔗 *Link:* https://public.tableau.com/views/Colac-Geelong/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+        <p class="project-summary">
+          Built an interactive Tableau dashboard to compare GDP levels, average growth, and regional share of world GDP to surface long-term trends and emerging economies.
+        </p>
 
----
+        <ul class="tags">
+          <li>Tableau</li>
+          <li>Dashboard Design</li>
+          <li>Data Storytelling</li>
+          <li>Trend Analysis</li>
+          <li>Excel</li>
+        </ul>
 
-## 🐍 Data Science Projects
+        <p class="project-links">
+          🔗 <b>Tableau Public:</b> 
+          <a href="https://public.tableau.com/views/GlobalGDPAnalysisDashboard/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link"
+         target="_blank" rel="noopener">
+         View Dashboard
+      </a>
+        </p>
+      </div>
+    </div>
+    <!-- End Project Card -->
+    <!-- Project Card -->
+<div class="project-card">
+  <img class="project-thumb"
+       src="/Colac.jpg"
+       alt="Colac Otway and Greater Geelong Dashboard thumbnail">
 
-### 📌 Influence Index Calculation & Visualization
-**Tools:** Python, Pandas, Matplotlib, Seaborn  
-**Focus:** Data processing, indexing, visualization
+  <div class="project-body">
+    <h4 class="project-title">📌 Colac Otway & Greater Geelong – Immigration Analysis</h4>
 
-- Computed a custom **Influence Index** across countries, commodities, and years
-- Automated ranking of top commodities per year
-- Produced bar charts, scatter plots, histograms, and box plots for insight discovery
+    <p class="project-summary">
+      Volunteered on a regional research project analyzing immigration patterns in Colac Otway and Greater Geelong using Australian Bureau of Statistics data.
+    </p>
 
-**Key skills demonstrated:**
-- Data cleaning & transformation
-- Custom metric design
-- Visual storytelling with Python
+    <ul class="tags">
+      <li>Tableau</li>
+      <li>Data Cleaning</li>
+      <li>Demographic Analysis</li>
+      <li>Data Visualization</li>
+      <li>Excel</li>
+    </ul>
 
-🔗 *GitHub:* _(link to repository)_
+    <p class="project-links">
+      🔗 <b>Tableau Public:</b>
+      <a href="https://public.tableau.com/views/Colac-Geelong/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link"
+         target="_blank" rel="noopener">
+         View Dashboard
+      </a>
+    </p>
+  </div>
+</div>
+<!-- End Project Card -->
 
----
+  </div>
+</details>
 
-### 📌 Exploratory Data Analysis (EDA) Projects
-**Tools:** Python, Pandas, NumPy, Seaborn  
-**Focus:** Understanding data behavior before modeling
+<details>
+  <summary>Python Projects <span class="chev">▼</span></summary>
+  <div class="content">
 
-- Analyzed distributions, outliers, and relationships between variables
-- Used histograms, scatter plots, and box plots to guide insights
-- Practiced reproducible and readable analysis notebooks
+    <div class="project-card">
+      <img class="project-thumb"
+           src="/assets/images/influence-index-python.png"
+           alt="Influence Index Python thumbnail">
 
-🔗 *GitHub:* _(link to repository)_
+      <div class="project-body">
+        <h4 class="project-title">📌 Influence Index Pipeline (Python)</h4>
 
----
+        <p class="project-summary">
+          Designed and implemented a reusable pipeline to compute an Influence Index by year/commodity/partner and visualize rankings and distributions for insight discovery.
+        </p>
 
-## 🗄️ SQL Projects
+        <ul class="tags">
+          <li>Python</li>
+          <li>Pandas</li>
+          <li>Data Cleaning</li>
+          <li>Seaborn</li>
+          <li>Feature Engineering</li>
+        </ul>
 
-### 📌 Business Data Querying & Analysis
-**Tools:** SQL (PostgreSQL / MySQL style)  
-**Focus:** Query logic, aggregation, insight extraction
+        <p class="project-links">
+          🔗 <b>GitHub:</b> (link)
+        </p>
+      </div>
+    </div>
 
-- Wrote complex SQL queries using:
-  - `JOIN`, `GROUP BY`, `HAVING`
-  - Subqueries and CTEs
-- Extracted insights related to sales, trends, and performance metrics
-- Focused on writing **clear, readable, and efficient queries**
+  </div>
+</details>
 
-🔗 *GitHub:* _(link to repository)_
+<details>
+  <summary>SQL / Database Projects <span class="chev">▼</span></summary>
+  <div class="content">
 
----
+    <div class="project-card">
+      <img class="project-thumb"
+           src="/assets/images/sql-analysis.png"
+           alt="SQL analysis thumbnail">
 
+      <div class="project-body">
+        <h4 class="project-title">📌 Business Querying & KPI Analysis (SQL)</h4>
 
-If you'd like to discuss a project or collaborate, feel free to reach out through the **Contact** page.
+        <p class="project-summary">
+          Wrote clear, validated SQL queries (joins, CTEs, aggregations) to answer business questions and generate decision-ready KPIs.
+        </p>
 
+        <ul class="tags">
+          <li>SQL</li>
+          <li>CTE</li>
+          <li>Joins</li>
+          <li>Aggregation</li>
+          <li>Data Validation</li>
+        </ul>
 
+        <p class="project-links">
+          🔗 <b>GitHub:</b> (link)
+        </p>
+      </div>
+    </div>
 
+  </div>
+</details>
+
+</div>
