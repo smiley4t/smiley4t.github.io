@@ -73,7 +73,7 @@ Each project focuses not only on tools, but also on **how data is transformed in
            alt="Global GDP Analysis Dashboard thumbnail">
 
       <div class="project-body">
-        <h4 class="project-title">📌 Global GDP Analysis Dashboard (1995–2024)</h4>
+        <h4 class="project-title"> Global GDP Analysis Dashboard (1995–2024)</h4>
 
         <p class="project-summary">
           Built an interactive Tableau dashboard to compare GDP levels, average growth, and regional share of world GDP to surface long-term trends and emerging economies.
@@ -104,7 +104,7 @@ Each project focuses not only on tools, but also on **how data is transformed in
        alt="Colac Otway and Greater Geelong Dashboard thumbnail">
 
   <div class="project-body">
-    <h4 class="project-title">📌 Colac Otway & Greater Geelong – Immigration Analysis</h4>
+    <h4 class="project-title"> Colac Otway & Greater Geelong – Immigration Analysis</h4>
 
     <p class="project-summary">
       Volunteered on a regional research project analyzing immigration patterns in Colac Otway and Greater Geelong using Australian Bureau of Statistics data.
@@ -133,19 +133,19 @@ Each project focuses not only on tools, but also on **how data is transformed in
 </details>
 
 <details>
-  <summary>Python Projects <span class="chev">▼</span></summary>
+  <summary>Machine Learning and Data Science Projects <span class="chev">▼</span></summary>
   <div class="content">
 
     <div class="project-card">
       <img class="project-thumb"
            src="/assets/images/influence-index-python.png"
-           alt="Influence Index Python thumbnail">
+           alt="Neural Network thumbnail">
 
       <div class="project-body">
-        <h4 class="project-title">📌 Influence Index Pipeline (Python)</h4>
+        <h4 class="project-title">📌 Classification of patient's diagnosis with Neural Network </h4>
 
         <p class="project-summary">
-          Designed and implemented a reusable pipeline to compute an Influence Index by year/commodity/partner and visualize rankings and distributions for insight discovery.
+          Using Neural Network to classify pediatric patients with abdominal pain into two groups : appendicitus and no appendicitus
         </p>
 
         <ul class="tags">
@@ -157,7 +157,11 @@ Each project focuses not only on tools, but also on **how data is transformed in
         </ul>
 
         <p class="project-links">
-          🔗 <b>GitHub:</b> (link)
+          🔗 <b>GitHub:</b> 
+           <a href="https://github.com/smiley4t/Neural-Network.git"
+         target="_blank" rel="noopener">
+         Link project
+      </a>
         </p>
       </div>
     </div>
