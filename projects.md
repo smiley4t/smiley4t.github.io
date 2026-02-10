@@ -90,7 +90,7 @@ Each project focuses not only on tools, but also on **how data is transformed in
 
         <p class="project-links">
           🔗 <b>Github:</b> 
-          <a href="https://github.com/DataBytes-Organisation/Fine-Tuning-LLMs-for-Enterprise-Applications/tree/alissa_branch.git"
+          <a href="https://github.com/DataBytes-Organisation/Fine-Tuning-LLMs-for-Enterprise-Applications/tree/alissa_branch"
          target="_blank" rel="noopener">
          Link project
       </a>
